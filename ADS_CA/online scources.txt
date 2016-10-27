@@ -1,0 +1,5 @@
+Graham
+finding a word in a string http://www.cplusplus.com/forum/beginner/141904/ 27/10/2016'
+
+fix to string function find not working in loop it returns postion not boolean if found;
+http://www.cplusplus.com/reference/string/string/find/ 27/10/2016
